@@ -2,7 +2,7 @@ print("Rezwana Sultana \n")
 
 #1. Make a code that will take the input of two strings. If the two inputs are the same, your program will print “SAME”. If Not, It should show “NOT Same” and check which one is greater and print that.
 A = input("input the 1st string: ")
-B = input("input the 2nd string: ")
+B = input("input the 2nd string: ") 
 if A == B:
   print("SAME")
 else:
